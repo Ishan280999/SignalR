@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "Tl7dQfkk/zwvky5oKdomHgQb9vy6Bmv4z6E+AMW78A0=",
+  "Source": "SignalRChatApp",
+  "BasePath": "_content/SignalRChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRChatApp\\wwwroot",
+      "Source": "SignalRChatApp",
+      "ContentRoot": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\wwwroot\\",
+      "BasePath": "_content/SignalRChatApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SignalRChatApp.styles.css",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "SignalRChatApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\SignalRChatApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SignalRChatApp.bundle.scp.css",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "SignalRChatApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\ishan\\Desktop\\poc\\SignalRChatApp\\SignalRChatApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\SignalRChatApp.bundle.scp.css"
+    }
+  ]
+}
